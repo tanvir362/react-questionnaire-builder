@@ -31,17 +31,12 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^3.3.0",
     "style-loader": "^1.0.1",
+    "svg-inline-loader": "^0.8.2",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
   },
   "bugs": {
     "url": "https://github.com/tanvir362/react-questionnaire-builder/issues"
   },
-  "homepage": "https://github.com/tanvir362/react-questionnaire-builder#readme",
-  "babel": {
-    "presets": [
-      "@babel/preset-env",
-      "@babel/preset-react"
-    ]
-  }
+  "homepage": "https://github.com/tanvir362/react-questionnaire-builder#readme"
 }

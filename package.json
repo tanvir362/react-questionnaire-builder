@@ -1,0 +1,27 @@
+{
+  "name": "react-questionnaire-builder",
+  "version": "1.0.0",
+  "description": "> Provide questionnaire as a javascript array of question objects with an interactive UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvir362/react-questionnaire-builder.git"
+  },
+  "author": "Tanvir Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "antd": "^4.11.2"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/tanvir362/react-questionnaire-builder/issues"
+  },
+  "homepage": "https://github.com/tanvir362/react-questionnaire-builder#readme"
+}

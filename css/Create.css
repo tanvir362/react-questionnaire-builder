@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+html {
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+    height: 100% !important;
+}
+body { 
+  height:100% !important;
+  width:100% !important;
+  font-family: 'Open Sans', sans-serif;  
+}
+
+.mainConfCreate{
+    /* border: 1px solid #C4C4C4; */
+    max-width: 950px;
+    margin-bottom: 8rem;
+    padding: 50px;
+    margin-top: 2rem;
+    
+    
+}
+ .mainConfCreate .container{
+    min-width: 0 !important;
+    display: flex;
+}
+
+.campTMain{
+    border: 1px solid #C4C4C4;
+    /* max-width: 70px; */
+    margin-bottom: 2rem;
+    min-height: 80px;
+    border-radius: 10px;
+    
+}
+.campT{
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.saveC{
+
+    text-decoration: none;
+    text-transform: none !important;
+    outline: none !important;
+    font-family: 'Open Sans', sans-serif !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    color: rgb(117, 117, 117) !important;
+    border-color: #C4C4C4 !important;
+    height: 2.1rem !important;
+    width: 10rem !important;
+
+}
+
+.saveMainC{
+    text-align: right !important;
+    /* margin-right: 2em !important; */
+    float: right !important;
+    margin-top: 2em;
+    
+}
+.saveMainC .MuiButton-outlinedSizeLarge{
+    padding: 0px 21px !important;
+}

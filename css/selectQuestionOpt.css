@@ -1,0 +1,22 @@
+.options { 
+    /* float : right; */
+    /* padding: 30px; */
+    /* width: 50%; */
+  } 
+  
+  .In{
+      display: block;
+  }
+.SelInput{
+    margin-bottom: 1rem;
+    width: 370px;
+    height: 2.4rem;
+    border-radius: 5px;
+    display: inline;
+
+}
+
+.clIcon{
+   display: inline;
+   margin-left: .5em;
+}

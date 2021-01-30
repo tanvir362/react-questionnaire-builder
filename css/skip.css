@@ -1,0 +1,117 @@
+.reqSw{
+    margin-left: 1em;
+}
+
+.skipCardMain{
+    margin-top: 1.5em;
+    width: 810px ;
+}
+
+.skipCard .ant-card-head{
+    border-bottom: 1px solid #f0f0f0 !important;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+
+color: #231F20;
+
+
+}
+
+.skipCard .ant-card-head-title{
+ font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+
+color: #231F20;
+
+
+}
+
+.skipCard.ant-card-bordered{
+
+    background-color: #ffffff !important;
+    width: 788px !important;
+}
+
+.skipCard.ant-card-head{
+    height: 35px !important;
+}
+
+.skipCard.ant-card-head-wrapper{
+    margin-top: -.5em;
+    font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 20px;
+
+color: #231F20;
+
+
+}
+
+.reText{
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 18px;
+
+color: #44425C;
+
+}
+
+.skp , .skipT2{
+    margin-top: 1em;
+}
+
+.skipT2{
+font-family: 'Open Sans';
+font-style: italic;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+
+color: #737272;
+
+
+}
+
+.sf .ant-form-item .ant-select, .ant-form-item .ant-cascader-picker{
+    width: 219px !important;
+}
+
+.crtSkp{display: flex;}
+
+  .crtSkp .MuiButton-root{
+      width: 240px !important;
+  }
+
+  
+.clIcon{
+   display: inline;
+   margin-left: .5em;
+}
+
+.skdl{
+    display: ruby !important;
+    display: initial;
+}
+
+.skLine{
+    margin-bottom: 1em;
+}
+
+.skIn{
+    width: 234px !important;
+    margin-left: .5em;
+}
+
+.conSel.ant-select{
+    width: 470px !important;
+}

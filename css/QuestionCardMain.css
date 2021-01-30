@@ -1,0 +1,90 @@
+
+/* .container {
+    display: flex;
+    flex-direction: row;
+  }
+  .col {
+    padding: 2em;
+    flex: 1;
+    flex-direction: column;
+  } */
+  #wrapper{
+    display: flex;
+    flex-direction: row;
+    min-width: 890px;
+    /* border: 1px solid black; */
+  }
+  .QC.container{
+    padding-left: 0px !important;
+    padding-right:  0px !important;
+  
+  }
+  
+  .mainQ{
+    border: .5px solid rgb(199, 197, 197);
+    min-width: 850px;
+    min-height: 200px;
+    /* margin: auto; */
+    padding: 30px;
+    /* margin-top: 5rem; */
+    border-radius: 10px;
+    margin-top: 2rem;
+    display: flow-root;
+    overflow: auto;
+    float: left;
+    
+  }
+  
+  .inp {
+    margin: auto !important;
+    padding: 5px;
+    border-radius: 5px;
+    height: 2.5rem;
+  }
+
+  .ant-input[disabled] {
+    background-color:#ffffff;
+    color: black
+  }
+
+  .ant-select-disabled.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    color: rgba(0, 0, 0, 0.85) !important;
+    background: #fff !important;
+  }
+  
+  .mt {
+    margin-top: 1.5rem;
+  }
+
+  .mainQ .ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder{
+    top:.3rem;
+    position: relative;
+   
+  }
+
+  .op{
+    width: 50%;
+    float: right;
+  }
+
+  .crtOp .MuiButton-root{
+      width: 370px !important;
+  }
+
+  .imgOp{
+    margin-right: .5em;
+  }
+  .sideMenu{
+    border: 1px solid  #c4c4c4;
+    width:3%;
+    height: 90px;
+    float: right;
+    margin-top: 4%;
+    margin-left: 1em;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .sideIcon{
+    cursor: pointer;
+  }

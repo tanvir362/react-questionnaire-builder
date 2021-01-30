@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/tanvir362/react-questionnaire-builder.git"
   },
-  "author": "Tanvir Ahmed",
+  "author": {
+    "name": "Tanvir Ahmed",
+    "email": "tanvir66288@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
